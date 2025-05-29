@@ -16,7 +16,7 @@
 - MLS is an electron circular accelerator providing synchrotron radiation in terahertz (THz) to extreme ultraviolet (EUV) regime.
 - The pressure dataset includes 5 million timestamps and 17 features.
 
-## Model
+## Models
 ### 1. RNN model
 - RNN is a type of DL model where the output from the previous time step is fed as an input to the current time step. The output from the previous time step is called a hidden state.
 - The hidden state stores historical information of the sequence up to the current time step. At any time step, it is computed from the current input data and the previous hidden state.
